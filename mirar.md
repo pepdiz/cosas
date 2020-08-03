@@ -31,3 +31,9 @@
 * ansible
 * expect tcl
 * bootlib c++
+
+* EDUCATIVOS
+  * blockCAD [https://www.blockscad3d.com/edu/resources/]
+  * microAlg (Lisp educativo basado en picolisp, online) [http://microalg.info] [https://github.com/pepdiz/microalg]
+  * FMSLogo (un logo en diversos idiomas, se puede programar en español) [https://github.com/pepdiz/microalg]
+  
