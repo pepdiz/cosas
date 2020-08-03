@@ -11,6 +11,6 @@
 * io [http://iolanguage.org]
 * refracta tools [https://refracta.org/documents.html]
 * javascript: 
-** react y react native
-** jest
-** node.js (npm)
+  * react y react native
+  * jest
+  * node.js (npm)
