@@ -30,7 +30,7 @@
   * node.js (npm)
 * ansible
 * expect tcl
-* bootlib c++
+* boostlib c++ [www.boost.org]
 
 * EDUCATIVOS
   * blockCAD [https://www.blockscad3d.com/edu/resources/]
